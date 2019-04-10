@@ -1,2 +1,3 @@
 def func():
-    return "hell world!"
+    print("hell world!")
+    return
